@@ -1,4 +1,3 @@
-layout_spectrum: 0.7032813741825521
 typography_spectrum: 0.18941675825044513
 color:
   brandStrength: 0.2079889706801623
@@ -11,4 +10,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.7032813741825521
 name: JesseSalazar
+description: A 360 degree view at my life on-air
