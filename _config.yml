@@ -1,16 +1,16 @@
-typography_spectrum: 0.18941675825044513
+layout_spectrum: 0.9337997336406261
+typography_spectrum: 0.47374503850005567
 color:
-  brandStrength: 0.2079889706801623
-  lightness: 0.8827419970184565
-  saturation: 0.7910122815519571
-  rhythmicContrast: 0.9794571972452104
+  brandStrength: 0.7823254044633359
+  lightness: 0.3259513380471617
+  saturation: 0.9673958655912429
+  rhythmicContrast: 0.16685398831032217
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.7032813741825521
 name: JesseSalazar
 title: Radio Life
 description: A 360 degree view at my life on-air
