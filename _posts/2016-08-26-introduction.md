@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-26T03:41:51.889Z'
+datePublished: '2016-08-30T03:02:28.033Z'
 sourcePath: _posts/2016-08-26-introduction.md
 author: []
 via: {}
-dateModified: '2016-08-26T03:41:51.454Z'
+dateModified: '2016-08-30T03:02:26.899Z'
 title: Introduction
 publisher: {}
 description: >-
@@ -18,6 +18,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf4c9c3e-4b4f-4587-bb10-bb1e8938aeef.jpg)
+
 # Introduction
 
 Sup errybody?! Thanks for clicking on my site to see what exactly the hell this is! Well...it's personal, and by that I mean my personal blog to show some of the sites and sounds and flat out kraziness I see on a daily basis as a radio jock on the biggest hip-hop station in North Texas!
